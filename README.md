@@ -1,4 +1,4 @@
 # GitHubWorkFLowPractice
 Testing
-Theint Thinzar Htun
+I am Theint Thinzar Htun
 blood type is O type
